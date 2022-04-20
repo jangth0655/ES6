@@ -18,13 +18,19 @@
 - [x] : 클래스
       📒[note](https://www.notion.so/6087808469344821a144c6d15519bcb3)
 
-- [ ] : 배열
+- [x] : 배열
       📒[note](https://www.notion.so/eeffae9b654b414787e87babb1a3ea50)
-- [ ] : 고차함수
+- [x] : 고차함수
       📒[note](https://www.notion.so/4b1eccac83484f82b07ad4830ccf7afb)
 
-- [ ] : 이터러블,제너레이터
+- [x] : 이터러블,제너레이터
       📒[note](https://www.notion.so/f2d2772d94f34960b90ac29f1a391b5b)
 
-- [ ] : 심볼
-      📒[note]()
+- [x] : 심볼
+      <!-- 📒[note]() -->
+
+- [x] : 주석, 에러처리
+      <!-- 📒[note]() -->
+
+- [x] : 비동기 처리
+      📒[note](https://www.notion.so/be6af3f3b46442d78bed7fe30e549ba5)
