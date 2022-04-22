@@ -1,0 +1,26 @@
+{
+  "name": "es6",
+  "version": "1.0.0",
+  "description": "- [x] : 변수       📒 [note](https://www.notion.so/8ffe3a00889e48faa4948218c64711f1)       <br /> - [x] : 연산자       📒[note](https://www.notion.so/96152867c01b45d0a512a5cd9d355912)",
+  "main": "1.closure.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel index.js -w -o build/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jangth0655/ES6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jangth0655/ES6/issues"
+  },
+  "homepage": "https://github.com/jangth0655/ES6#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.17.6",
+    "@babel/core": "^7.17.9",
+    "@babel/preset-env": "^7.16.11"
+  }
+}

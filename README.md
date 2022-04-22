@@ -34,3 +34,9 @@
 
 - [x] : 비동기 처리
       📒[note](https://www.notion.so/be6af3f3b46442d78bed7fe30e549ba5)
+
+- [x] : 스코프
+      📒[note](https://www.notion.so/d7e03839f9f44d3e90b8e3c3ee6be291)
+
+- [x] : 프로토타입
+      📒[note](https://www.notion.so/6be9698db2d948abb04476b98d65e259)
